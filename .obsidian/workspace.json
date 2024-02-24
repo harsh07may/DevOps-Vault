@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "83383b91b47168a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "30c0bc153f0d94ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26c1bf81684defb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Basic Terminology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a0ee65310463d98",
+    "type": "split",
+    "children": [
+      {
+        "id": "19e686e7e8498b72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80bc0077599cf262",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d43f28a59c62050e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1944a35e6cd32b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4593de2316b6be67",
+    "type": "split",
+    "children": [
+      {
+        "id": "030211aac19a9939",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61b7e765bed8d9f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Basic Terminology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e9ff1e20fe021ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/Basic Terminology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9ee963052919fa4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d532f42d4581bfb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/Basic Terminology.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "26c1bf81684defb5",
+  "lastOpenFiles": [
+    "Linux/File Hierarchy System (FHS).md",
+    "Linux/Basic Terminology.md",
+    "Media/Pasted image 20240224130215.png",
+    "Pasted image 20240224125717.png",
+    "Pasted image 20240224125735.png",
+    "Docker/Roadmap.md",
+    "Docker/Dockerfile.md",
+    "Docker/Docker Compose.md",
+    "Docker/Basic Commands.md",
+    "Docker/Underlying Technologies.md",
+    "Linux",
+    "Kubernetes or k8s/Kubernetes.md",
+    "Media/docker.pdf",
+    "Kubernetes or k8s/Node Components.md",
+    "Docker",
+    "Kubernetes or k8s/Notes.md",
+    "Kubernetes or k8s/Container Orchestration.md",
+    "Media/Pasted image 20240223092557.png",
+    "Media/Pasted image 20240223090733.png",
+    "Media/Pasted image 20240222223400.png",
+    "Media/Pasted image 20240222223336.png",
+    "Media/Pasted image 20240222223237.png",
+    "Pods.md",
+    "Notes.md",
+    "Peek.md",
+    "nodes.md",
+    "Kubernetes or k8s/Description/Untitled.md",
+    "Kubernetes or k8s/Description",
+    "Media",
+    "Kubernetes or k8s",
+    "Welcome.md"
+  ]
+}

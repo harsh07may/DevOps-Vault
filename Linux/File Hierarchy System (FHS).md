@@ -1,3 +1,4 @@
+
 A Guideline that defines the common structure, content, and purpose of directories in Linux distributions.
 
 - **`/`:** The root directory. The starting point of the entire file system.
@@ -18,4 +19,12 @@ A Guideline that defines the common structure, content, and purpose of directori
 - **`/dev`**: Device files
 - **`/opt`:** Optional additional software packages.
 
- >**Note:**  Directory Names are case sensitive.
+ >	**Note:**  Directory Names are case sensitive. `/boot` is different from `/Boot.`
+ 
+ > **Tip:** 
+ > Access `/root` from `Computer` in Fs GUI.
+ > `Ctrl+L` to see current file path. 
+ 
+ 
+ 
+ 

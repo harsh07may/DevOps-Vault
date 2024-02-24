@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30c0bc153f0d94ca",
+        "id": "cdd010754578175a",
         "type": "tabs",
         "children": [
           {
-            "id": "26c1bf81684defb5",
+            "id": "0fcb75fb1c32b532",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Basic Terminology.md",
+                "file": "Linux/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Basic Terminology.md",
+                "file": "Linux/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Basic Terminology.md",
+                "file": "Linux/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Basic Terminology.md"
+                "file": "Linux/Introduction.md"
               }
             }
           }
@@ -146,10 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26c1bf81684defb5",
+  "active": "80bc0077599cf262",
   "lastOpenFiles": [
+    "Linux/Basic Operations.md",
+    "Linux/Introduction.md",
     "Linux/File Hierarchy System (FHS).md",
-    "Linux/Basic Terminology.md",
+    "Linux/Grep.md",
+    "Linux/Linux Text Editors.md",
+    "Linux/Networking.md",
+    "Linux/Users & Groups.md",
+    "Linux/Basic Commands.md",
+    "Media/Pasted image 20240224204716.png",
     "Media/Pasted image 20240224130215.png",
     "Pasted image 20240224125717.png",
     "Pasted image 20240224125735.png",

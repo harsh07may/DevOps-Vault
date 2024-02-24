@@ -1,7 +1,8 @@
 ---
 
 ---
----
+## Basic Terminology
+
 **Kernel**: The heart of the operating system. It manages hardware resources, memory, processes, and provides an interface for applications to interact with the system. 
 
 **Distribution or distro:** A packaged collection of the Linux kernel, system tools, and a graphical user interface. Popular distributions include: Ubuntu(Beginner), Debian(Stability), Fedora(cutting-edge).
